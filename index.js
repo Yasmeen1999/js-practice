@@ -99,7 +99,7 @@
 //console.log(X);
 
 //*COMPARISON OPERATOR*//
-let X=1;
+// let X=1;
 //console.log(X>1);
 //console.log(X>=1);
 //console.log(X<1);
@@ -108,6 +108,51 @@ let X=1;
 
  // console.log(X===1); EQUAL
  // console.log(X!==1); NOT EQUAL
+
+ //bitwise operator
+
+// console.log(1 | 2); 
+  //bitwise OR
+//  console.log(1 & 2); //biwise AND
+
+
+
+//if else statement
+// let hour=7;
+
+// if (hour >= 6 && hour < 12)
+//  console.log('good morning');
+// else if (hour >= 12 && hour < 18)
+// console.log('good afternoon');
+// else
+// console.log('good evening');
+
+
+//switch statement
+
+// let role = 'moderator';
+// switch (role){
+//   case 'guest':
+//   console.log('guest user');
+//   break;
+
+//   case 'moderator':
+//   console.log('moderator user');
+//   break;
+
+//   default:
+//   console.log('unknown user');
+// }
+
+
+//for loop
+
+// for ( let i=0;  i<=5; i++){
+//   if( i % 2 !==0 ) console.log(i);
+// }
+
+
+
 
 
  
